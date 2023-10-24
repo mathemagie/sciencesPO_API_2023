@@ -33,3 +33,5 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
   - Développement de nouveaux services à partir de l'OpenAPI Radio france : https://hyperradio.radiofrance.fr/actualite/vous-aussi-participez-a-la-creation-de-la-radio-de-demain-avec-lopen-api-de-radio-france/ 
   
   - https://www.journaldunet.com/solutions/cloud-computing/1181302-twilio-la-start-up-qui-motorise-les-services-de-communication-de-facebook-ou-uber/
+
+  - https://www.schneier.com/blog/archives/2023/09/ai-tool-use.html?fbclid=IwAR2L6BFMasNhZgAdZptMMqtP-hASLH8_r1rJ-a05ihf9lfVrNuh9fSqOQOs
