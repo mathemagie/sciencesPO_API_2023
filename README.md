@@ -35,3 +35,15 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
   - https://www.journaldunet.com/solutions/cloud-computing/1181302-twilio-la-start-up-qui-motorise-les-services-de-communication-de-facebook-ou-uber/
 
   - https://www.schneier.com/blog/archives/2023/09/ai-tool-use.html?fbclid=IwAR2L6BFMasNhZgAdZptMMqtP-hASLH8_r1rJ-a05ihf9lfVrNuh9fSqOQOs
+
+## cours 2
+
+3 videos à regarder pour mieux comprendre les enjeux des APIs
+
+
+1/The World Through an API  (17 min) : https://www.youtube.com/watch?v=xd5EoVc3I_Y&t=1s
+2/ a16z Podcast | The API Economy -- The Why, What, and How (30 min) : https://www.youtube.com/watch?v=HNBDxRhc9PU
+3/ What Is an API and Why Does It Matter? (6 min) : https://www.youtube.com/watch?v=uNZlk3F_N7E&t=1s
+
+
+##cours 3
