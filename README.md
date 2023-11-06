@@ -38,12 +38,42 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 ## cours 2
 
+- API sur le notion d'objet connecté, pour un humain, un chat, un avion: 
+
+https://docs.google.com/presentation/d/1_7dPkHPIg2kdiqRpnfSkkKn2A4ZIh5klf3JbHWBOaC4/edit#slide=id.g75cd6f2284_0_419
+
+-Présentation de mon prototype de créations d'histoires audios en combinant chatGPT et elevenLabs : https://github.com/mathemagie/story_storm
+
 3 videos à regarder pour mieux comprendre les enjeux des APIs
 
-
-1/The World Through an API  (17 min) : https://www.youtube.com/watch?v=xd5EoVc3I_Y&t=1s
-2/ a16z Podcast | The API Economy -- The Why, What, and How (30 min) : https://www.youtube.com/watch?v=HNBDxRhc9PU
-3/ What Is an API and Why Does It Matter? (6 min) : https://www.youtube.com/watch?v=uNZlk3F_N7E&t=1s
-
+- The World Through an API  (17 min) : https://www.youtube.com/watch?v=xd5EoVc3I_Y&t=1s
+- a16z Podcast | The API Economy -- The Why, What, and How (30 min) : https://www.youtube.com/watch?v=HNBDxRhc9PU
+-  What Is an API and Why Does It Matter? (6 min) : https://www.youtube.com/watch?v=uNZlk3F_N7E&t=1s
 
 ##cours 3
+
+bien lire cet artcicle en ligne : https://zapier.com/blog/automate-openai/
+
+# Exercices demandés
+
+Création de 5 zaps de A à Z (me fournir les copies d'écrans par email) !
+
+Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de services non proposés par cet outil en ligne !
+Exemples :
+
+Illuminer la tour Eiffel au survol de Thomas Pesquet au dessus de la France.
+Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
+Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
+
+
+
+
+
+
+
+
+
+
+
+
+
