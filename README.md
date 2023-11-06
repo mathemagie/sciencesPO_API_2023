@@ -52,18 +52,25 @@ https://docs.google.com/presentation/d/1_7dPkHPIg2kdiqRpnfSkkKn2A4ZIh5klf3JbHWBO
 
 ##cours 3
 
-bien lire cet artcicle en ligne : https://zapier.com/blog/automate-openai/
+Bien lire cet artcicle en ligne : https://zapier.com/blog/automate-openai/
 
-# Exercices demandés
+- création d'un ou deux ZAP(s) de a à Z ne mettant bien évidence les problématiques d'authentification
+- créer avec eux un zap basé sur https://zapier.com/editor/213654610/draft/213654659/sample
+- créer un compte sur openAI afin de récupérer un clef API
+
+- - https://googlecodelabs-candle-bluetooth.glitch.me/ et https://changecolor-candle.glitch.me/vert
+
+
+### Exercices demandés
 
 Création de 5 zaps de A à Z (me fournir les copies d'écrans par email) !
 
 Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de services non proposés par cet outil en ligne !
 Exemples :
 
-Illuminer la tour Eiffel au survol de Thomas Pesquet au dessus de la France.
-Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
-Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
+- Illuminer la tour Eiffel au survol de Thomas Pesquet au dessus de la France.
+- Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
+- Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
 
 
 
