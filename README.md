@@ -50,7 +50,7 @@ https://docs.google.com/presentation/d/1_7dPkHPIg2kdiqRpnfSkkKn2A4ZIh5klf3JbHWBO
 - a16z Podcast | The API Economy -- The Why, What, and How (30 min) : https://www.youtube.com/watch?v=HNBDxRhc9PU
 -  What Is an API and Why Does It Matter? (6 min) : https://www.youtube.com/watch?v=uNZlk3F_N7E&t=1s
 
-##cours 3
+## cours 3
 
 Bien lire cet artcicle en ligne : https://zapier.com/blog/automate-openai/
 
